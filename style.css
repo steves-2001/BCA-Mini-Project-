@@ -1,0 +1,34 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+.feedMargin
+{
+  margin-bottom: 1rem;
+}
+
+.userButton
+{
+  border: none;
+  outline: none;
+  -webkit-appearance: none;
+  text-align: center;
+}
+
+.hider
+{
+  display: none;
+}
+
+.feedElement
+{
+  border: 2px solid red;
+}
+
+.imagewidth
+{
+  width: 100rem;
+}
+
